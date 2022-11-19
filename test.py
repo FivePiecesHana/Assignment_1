@@ -1,7 +1,7 @@
 import pandas as pd
 import csv
 
-
+#
 class Geometry:
     def __init__(self, name):
         self.__name = name
